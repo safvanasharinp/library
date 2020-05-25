@@ -47,6 +47,14 @@ li{
     text-align: center;
 
 }
+h6{
+  
+    font-style: unset;
+    font-stretch: narrower;
+    font-weight: bold;
+  
+  }
+
 .nav{
     padding:10px;
     margin:auto;
