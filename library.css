@@ -1,0 +1,122 @@
+body{
+    background-color: lightgrey;
+    
+}
+h1,h2,h3{
+    font-family: "'Oswald',arial narrow,sans-serif";
+    font-size: 55px;
+  
+  
+  
+}
+.navbar-custom{
+    background-color: rgb(15, 15, 180);
+    color:white;
+    height:50px;
+    text-align: center;
+}
+a{
+    padding:10px;
+    color:#f7ecec;
+    height:50px;
+    margin:auto;
+    
+
+}
+li{
+    text-decoration: none;
+}
+.ml-auto{
+    padding-top:0px;
+    margin-top:-20px;
+    
+}
+.menu
+{
+  width: 5px;
+  height: 5px;
+  background-color: white;
+  margin: 1px;
+}
+.menux{
+    width:2px;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.329);
+    margin: 2px;
+    color:white;
+    text-align: center;
+
+}
+.nav{
+    padding:10px;
+    margin:auto;
+}
+.change{
+    margin:3px;
+    
+}
+
+.jumbotron.row{
+    background-color: rgb(13, 13, 94);
+    border-radius:0;
+    margin-bottom: 0;
+    width:100%;
+    margin: auto 10px auto  auto;
+    
+    
+
+    
+}
+.jumbotron.container-fluid.b{
+    margin-top: -40px;
+    margin-bottom: 0;
+    border-radius: 0;
+    width:95%;
+    
+    
+    
+}
+img{
+    width:100px;
+    height:100px;
+}
+h1{
+    color:white;
+    font-family:  sans-serif;
+}
+div.container.a
+{
+    background-color:rgb(15, 15, 180);
+    height: 100px;
+    width:30%;
+    margin:auto 5px auto auto;
+    padding-right: 100px;
+    
+
+    
+}
+
+.row{
+     width:50%;
+     padding-top: -30px;
+
+
+}
+.btn1{
+    margin:0;
+}
+.jumbotron.a{
+    background-color: white;
+}
+.follow{
+
+
+margin-left: 2.5%;
+margin-top: 7%;
+margin-bottom: 10px;
+    
+
+}
+.btn{
+    display:inline-flex;
+}
